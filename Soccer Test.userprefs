@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\DynaWars\Assets\resources\src\InvSystem\Inventory.cs">
+    <Files>
+      <File FileName="..\DynaWars\Assets\resources\src\DamageSystem\DamageSystem.cs" Line="148" Column="43" />
+      <File FileName="..\DynaWars\Assets\resources\src\Player System\PlayerSystem.cs" Line="449" Column="116" />
+      <File FileName="..\DynaWars\Assets\resources\src\WorldGen\TerrainGenerator.cs" Line="1" Column="1" />
+      <File FileName="..\DynaWars\Assets\resources\src\ProfileSystem\Profile.cs" Line="8" Column="46" />
+      <File FileName="..\DynaWars\Assets\resources\src\Player System\Playersystemindex.cs" Line="463" Column="68" />
+      <File FileName="..\DynaWars\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.cs" Line="93" Column="18" />
+      <File FileName="..\DynaWars\Assets\resources\src\Enemy\AIScript.cs" Line="64" Column="16" />
+      <File FileName="..\DynaWars\Assets\resources\src\InvSystem\Inventory.cs" Line="370" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
